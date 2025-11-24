@@ -1,4 +1,4 @@
-# ece595-nlp
+# Emoji Powered Capsule Network to Detect Type and Target of Offensive Posts in Social Media
 
 We go on to implement 'Emoji Powered Capsule Network to Detect Type and Target of Offensive Posts in Social Media' with aid from the official GitHub repository. Since there are three different subtasks like 
 
